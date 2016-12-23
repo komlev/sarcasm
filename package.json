@@ -1,0 +1,9 @@
+{
+  "name": "sarcasm",
+  "version": "0.0.1",
+  "description": "Well, you know",
+  "main": "index.js",
+  "repository": "git@github.com:komlev/sarcasm.git",
+  "author": "Valeriy Komlev <komlev88@gmail.com>",
+  "license": "MIT"
+}
