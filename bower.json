@@ -1,0 +1,24 @@
+{
+  "name": "sarcasm",
+  "description": "Best library to show your appriciation",
+  "main": "lib/sarcasm.js",
+  "authors": [
+    "Valeriy Komlev <komlev88@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sarcasm",
+    "es6",
+    "js",
+    "framework",
+    "library"
+  ],
+  "homepage": "https://github.com/komlev/sarcasm",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
