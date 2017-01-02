@@ -65,6 +65,8 @@ They are:
 Here is the best way to show your negative attitude.
 
 Simply, javascript world needs a hero library
+
+
 1. No more hassle and downtime
 2. DRY (don't repeat yourself)
 3. Easy as it gets
@@ -72,6 +74,7 @@ Simply, javascript world needs a hero library
 5. Pure, free from side-effects
 6. Painless migration from any other framework
 7. Friendly learning curve
+8. No boilerplate
 
 ## Experience and reasoning
 
