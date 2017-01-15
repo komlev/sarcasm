@@ -108,3 +108,8 @@ simple as that
 ## License
 
 MIT
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/komlev/sarcasm/badge.svg?style=beer-square)](https://beerpay.io/komlev/sarcasm)  [![Beerpay](https://beerpay.io/komlev/sarcasm/make-wish.svg?style=flat-square)](https://beerpay.io/komlev/sarcasm?focus=wish)
