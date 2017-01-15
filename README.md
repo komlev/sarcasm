@@ -23,6 +23,8 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Beerpay](https://beerpay.io/komlev/sarcasm/badge.svg?style=flat)](https://beerpay.io/komlev/sarcasm)
 [![Beerpay](https://beerpay.io/komlev/sarcasm/make-wish.svg)](https://beerpay.io/komlev/sarcasm)
 
+[![Beerpay](https://beerpay.io/komlev/sarcasm/badge.svg?style=beer-square)](https://beerpay.io/komlev/sarcasm)
+
 ## Why
 
 Billions of people are using sarcasm everyday, so what are you waiting for?
@@ -108,8 +110,3 @@ simple as that
 ## License
 
 MIT
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/komlev/sarcasm/badge.svg?style=beer-square)](https://beerpay.io/komlev/sarcasm)  [![Beerpay](https://beerpay.io/komlev/sarcasm/make-wish.svg?style=flat-square)](https://beerpay.io/komlev/sarcasm?focus=wish)
