@@ -15,6 +15,9 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Coverage Badge](https://api.shippable.com/projects/587ac70e2f36a111000cad8a/coverageBadge?branch=master)](https://app.shippable.com/projects/587ac70e2f36a111000cad8a)
 [![Build Status](https://app.snap-ci.com/komlev/sarcasm/branch/master/build_image)](https://app.snap-ci.com/komlev/sarcasm/branch/master)
 [![Coverage Status](https://coveralls.io/repos/github/komlev/sarcasm/badge.svg)](https://coveralls.io/github/komlev/sarcasm)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/komlev/sarcasm/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/komlev/sarcasm/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/komlev/sarcasm/badges/build.png?b=master)](https://scrutinizer-ci.com/g/komlev/sarcasm/build-status/master)
+[![Code Coverage](https://scrutinizer-ci.com/g/komlev/sarcasm/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/komlev/sarcasm/?branch=master)
 
 ## Why
 
