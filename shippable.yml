@@ -3,3 +3,10 @@ language: node_js
 node_js:
   - node
   - 6
+
+before_install:
+  - sudo apt-get install python2.7
+  - git clone https://github.com/eriwen/lcov-to-cobertura-xml.git
+
+script:
+  - python lcov-to-cobertura-xml/lcov_cobertura/lcov_cobertura.py ./coverage/lcov.info --output ./coverage/coverage.xml
