@@ -22,6 +22,8 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Coverity Scan](https://scan.coverity.com/projects/11477/badge.svg)]()
 [![Beerpay](https://beerpay.io/komlev/sarcasm/badge.svg?style=flat)](https://beerpay.io/komlev/sarcasm)
 [![Beerpay](https://beerpay.io/komlev/sarcasm/make-wish.svg)](https://beerpay.io/komlev/sarcasm)
+[![Code Climate](https://codeclimate.com/github/komlev/sarcasm/badges/gpa.svg)](https://codeclimate.com/github/komlev/sarcasm)
+[![Issue Count](https://codeclimate.com/github/komlev/sarcasm/badges/issue_count.svg)](https://codeclimate.com/github/komlev/sarcasm)
 
 [![Beerpay](https://beerpay.io/komlev/sarcasm/badge.svg?style=beer-square)](https://beerpay.io/komlev/sarcasm)
 

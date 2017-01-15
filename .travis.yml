@@ -4,6 +4,13 @@ node_js:
   - node
   - 6
 
+addons:
+  code_climate:
+    repo_token: 540fa4e3b1b1a4eba8a54a7275cae7784900efce1149f65791c43aa6f6ed0f97
+
 after_script:
   - bash <(curl -s https://codecov.io/bash)
-  - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
+  - npm install -g codeclimate-test-reporter
+  - codeclimate-test-reporter < ./coverage/lcov.info
+  - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
+  - rm -rf ./coverage
