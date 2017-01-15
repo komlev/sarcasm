@@ -5,6 +5,7 @@ Sarcasm is easy-as-pie, batteries-included, non-opinionated,
 simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass javascript library on steroids.
 
 [![npm version](https://badge.fury.io/js/sarcasm.svg)](https://badge.fury.io/js/sarcasm)
+[![npm](https://img.shields.io/npm/v/sarcasm.svg)]()
 [![Bower version](https://badge.fury.io/bo/sarcasm.svg)](https://badge.fury.io/bo/sarcasm)
 [![Github All Releases](https://img.shields.io/github/downloads/komlev/sarcasm/total.svg)]()
 [![Build Status](https://travis-ci.org/komlev/sarcasm.svg?branch=master)](https://travis-ci.org/komlev/sarcasm)
@@ -32,6 +33,14 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Dependency Status](https://gemnasium.com/badges/github.com/komlev/sarcasm.svg)](https://gemnasium.com/github.com/komlev/sarcasm)
 [![Requirements Status](https://requires.io/github/komlev/sarcasm/requirements.svg?branch=master)](https://requires.io/github/komlev/sarcasm/requirements/?branch=master)
 [![Dependency Status](https://www.versioneye.com/user/projects/587b7c95de66c8003e1d49db/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/587b7c95de66c8003e1d49db)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/33ad60136db443878f3b29f4073a57fe)](https://www.codacy.com/app/komlev/sarcasm?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=komlev/sarcasm&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/33ad60136db443878f3b29f4073a57fe)](https://www.codacy.com/app/komlev/sarcasm?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=komlev/sarcasm&amp;utm_campaign=Badge_Coverage)
+[![Gitter](https://img.shields.io/gitter/room/sarcasmjs/sarcasm.svg)](https://gitter.im/sarcasmjs/sarcasm)
+[![Stories in Ready](https://badge.waffle.io/komlev/sarcasm.svg?label=ready&title=Ready)](http://waffle.io/komlev/sarcasm)
+[![dependencies Status](https://david-dm.org/komlev/sarcasm/status.svg)](https://david-dm.org/komlev/sarcasm)
+[![Libraries.io for GitHub](https://img.shields.io/librariesio/github/komlev/sarcasm.svg)]()
+[![awesome](https://img.shields.io/badge/sarcasm-awesome-FF6EDB.svg)]()
+
 
 [![NPM](https://nodei.co/npm/sarcasm.png?mini=true)](https://npmjs.org/package/sarcasm)
 
