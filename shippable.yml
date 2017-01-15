@@ -3,3 +3,8 @@ language: node_js
 node_js:
   - node
   - 6
+
+script:
+  - mkdir -p shippable
+  - mkdir -p shippable/codecoverage
+  - mv ./coverage/cobertura-coverage.xml shippable/codecoverage/coverage.xml
