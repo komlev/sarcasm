@@ -8,6 +8,9 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Build status](https://ci.appveyor.com/api/projects/status/ujsahwp0giji9yon?svg=true)](https://ci.appveyor.com/project/komlev/sarcasm)
 [![wercker status](https://app.wercker.com/status/e1794f1a6cb9f6ea2a7950e54b3a0d6b/s/master "wercker status")](https://app.wercker.com/project/byKey/e1794f1a6cb9f6ea2a7950e54b3a0d6b)
 [ ![Codeship Status for komlev/sarcasm](https://app.codeship.com/projects/152a8850-bce1-0134-405a-76ab691be209/status?branch=master)](https://app.codeship.com/projects/195938)
+[![Magnum CI](https://magnum-ci.com/status/50d3ae08527aff207a46f2b29572816a.png)]()
+[![Circle CI](https://circleci.com/gh/komlev/sarcasm.svg?style=shield&circle-token=7f2dac1979ff673a24643afe2ba2764bc24d4d5b)]()
+[![Circle CI shield](https://circleci.com/gh/komlev/sarcasm.png?circle-token=7f2dac1979ff673a24643afe2ba2764bc24d4d5b)]()
 
 ## Why
 
