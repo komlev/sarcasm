@@ -7,6 +7,7 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Build Status](https://travis-ci.org/komlev/sarcasm.svg?branch=master)](https://travis-ci.org/komlev/sarcasm)
 [![Build status](https://ci.appveyor.com/api/projects/status/ujsahwp0giji9yon?svg=true)](https://ci.appveyor.com/project/komlev/sarcasm)
 [![wercker status](https://app.wercker.com/status/e1794f1a6cb9f6ea2a7950e54b3a0d6b/s/master "wercker status")](https://app.wercker.com/project/byKey/e1794f1a6cb9f6ea2a7950e54b3a0d6b)
+[ ![Codeship Status for komlev/sarcasm](https://app.codeship.com/projects/152a8850-bce1-0134-405a-76ab691be209/status?branch=master)](https://app.codeship.com/projects/195938)
 
 ## Why
 
