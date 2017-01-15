@@ -4,6 +4,9 @@
 Sarcasm is easy-as-pie, batteries-included, non-opinionated,
 simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass javascript library on steroids.
 
+[![npm version](https://badge.fury.io/js/sarcasm.svg)](https://badge.fury.io/js/sarcasm)
+[![Bower version](https://badge.fury.io/bo/sarcasm.svg)](https://badge.fury.io/bo/sarcasm)
+[![Github All Releases](https://img.shields.io/github/downloads/komlev/sarcasm/total.svg)]()
 [![Build Status](https://travis-ci.org/komlev/sarcasm.svg?branch=master)](https://travis-ci.org/komlev/sarcasm)
 [![Build status](https://ci.appveyor.com/api/projects/status/ujsahwp0giji9yon?svg=true)](https://ci.appveyor.com/project/komlev/sarcasm)
 [![wercker status](https://app.wercker.com/status/e1794f1a6cb9f6ea2a7950e54b3a0d6b/s/master "wercker status")](https://app.wercker.com/project/byKey/e1794f1a6cb9f6ea2a7950e54b3a0d6b)
@@ -24,8 +27,16 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Beerpay](https://beerpay.io/komlev/sarcasm/make-wish.svg)](https://beerpay.io/komlev/sarcasm)
 [![Code Climate](https://codeclimate.com/github/komlev/sarcasm/badges/gpa.svg)](https://codeclimate.com/github/komlev/sarcasm)
 [![Issue Count](https://codeclimate.com/github/komlev/sarcasm/badges/issue_count.svg)](https://codeclimate.com/github/komlev/sarcasm)
+[![Test Coverage](https://codeclimate.com/github/komlev/sarcasm/badges/coverage.svg)](https://codeclimate.com/github/komlev/sarcasm/coverage)
+[![bitHound Code](https://www.bithound.io/github/komlev/sarcasm/badges/code.svg)](https://www.bithound.io/github/komlev/sarcasm)
+[![Dependency Status](https://gemnasium.com/badges/github.com/komlev/sarcasm.svg)](https://gemnasium.com/github.com/komlev/sarcasm)
+[![Requirements Status](https://requires.io/github/komlev/sarcasm/requirements.svg?branch=master)](https://requires.io/github/komlev/sarcasm/requirements/?branch=master)
+[![Dependency Status](https://www.versioneye.com/user/projects/587b7c95de66c8003e1d49db/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/587b7c95de66c8003e1d49db)
+
+[![NPM](https://nodei.co/npm/sarcasm.png?mini=true)](https://npmjs.org/package/sarcasm)
 
 [![Beerpay](https://beerpay.io/komlev/sarcasm/badge.svg?style=beer-square)](https://beerpay.io/komlev/sarcasm)
+
 
 ## Why
 
