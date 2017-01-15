@@ -1,6 +1,6 @@
 {
   "name": "sarcasm",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Best library to show your appriciation",
   "main": "lib/sarcasm.js",
   "repository": "git@github.com:komlev/sarcasm.git",
@@ -33,6 +33,11 @@
       "/node_modules/",
       "/lib/"
     ],
-    "coverageReporters": ["json", "lcov", "text", "cobertura"]
+    "coverageReporters": [
+      "json",
+      "lcov",
+      "text",
+      "cobertura"
+    ]
   }
 }
