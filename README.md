@@ -4,6 +4,7 @@
 Sarcasm is easy-as-pie, batteries-included, non-opinionated,
 simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass javascript library on steroids.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/33ad60136db443878f3b29f4073a57fe)](https://www.codacy.com/app/komlev/sarcasm?utm_source=github.com&utm_medium=referral&utm_content=komlev/sarcasm&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/komlev/sarcasm.svg?branch=master)](https://travis-ci.org/komlev/sarcasm)
 [![Build status](https://ci.appveyor.com/api/projects/status/ujsahwp0giji9yon?svg=true)](https://ci.appveyor.com/project/komlev/sarcasm)
 [![wercker status](https://app.wercker.com/status/e1794f1a6cb9f6ea2a7950e54b3a0d6b/s/master "wercker status")](https://app.wercker.com/project/byKey/e1794f1a6cb9f6ea2a7950e54b3a0d6b)
