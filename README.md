@@ -12,6 +12,7 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Circle CI](https://circleci.com/gh/komlev/sarcasm.svg?style=shield&circle-token=7f2dac1979ff673a24643afe2ba2764bc24d4d5b)]()
 [![Circle CI shield](https://circleci.com/gh/komlev/sarcasm.png?circle-token=7f2dac1979ff673a24643afe2ba2764bc24d4d5b)]()
 [![Run Status](https://api.shippable.com/projects/587ac70e2f36a111000cad8a/badge?branch=master)](https://app.shippable.com/projects/587ac70e2f36a111000cad8a)
+[![Build Status](https://app.snap-ci.com/komlev/sarcasm/branch/master/build_image)](https://app.snap-ci.com/komlev/sarcasm/branch/master)
 
 ## Why
 

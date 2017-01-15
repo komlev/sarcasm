@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "build": "webpack",
-    "test": "jest --coverage"
+    "test": "jest"
   },
   "devDependencies": {
     "babel": "^6.5.2",
@@ -24,5 +24,10 @@
     "js",
     "framework",
     "library"
-  ]
+  ],
+  "jest": {
+    "collectCoverage": true,
+    "coverageDirectory": "./coverage",
+    "coveragePathIgnorePatterns": ["/node_modules/", "/lib/"]
+  }
 }
