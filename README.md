@@ -20,6 +20,8 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Code Coverage](https://scrutinizer-ci.com/g/komlev/sarcasm/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/komlev/sarcasm/?branch=master)
 [![Codecov Status](https://img.shields.io/codecov/c/github/komlev/sarcasm.svg)]()
 [![Coverity Scan](https://scan.coverity.com/projects/11477/badge.svg)]()
+[![Beerpay](https://beerpay.io/komlev/sarcasm/badge.svg?style=flat)](https://beerpay.io/komlev/sarcasm)
+[![Beerpay](https://beerpay.io/komlev/sarcasm/make-wish.svg)](https://beerpay.io/komlev/sarcasm)
 
 ## Why
 

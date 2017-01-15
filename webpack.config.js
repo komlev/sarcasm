@@ -23,10 +23,10 @@ module.exports = {
       {
         test: /\.js$/,
         loaders: [
-          'babel-loader',
+          'babel-loader'
         ],
         exclude: /node_modules/
-      },
+      }
     ]
   },
   "plugins": [
@@ -48,7 +48,7 @@ module.exports = {
         dead_code: true,
         evaluate: true,
         if_return: true,
-        join_vars: true,
+        join_vars: true
       },
       output: {
         comments: false
