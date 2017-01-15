@@ -1,6 +1,6 @@
 {
   "name": "sarcasm",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Best library to show your appriciation",
   "main": "lib/sarcasm.js",
   "repository": "git@github.com:komlev/sarcasm.git",
@@ -28,6 +28,9 @@
   "jest": {
     "collectCoverage": true,
     "coverageDirectory": "./coverage",
-    "coveragePathIgnorePatterns": ["/node_modules/", "/lib/"]
+    "coveragePathIgnorePatterns": [
+      "/node_modules/",
+      "/lib/"
+    ]
   }
 }
