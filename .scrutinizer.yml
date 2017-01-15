@@ -2,6 +2,7 @@ build:
     tests:
         override:
             -
+                command: 'jest'
                 coverage:
                     file: 'coverage/clover.xml'
                     format: 'clover'
