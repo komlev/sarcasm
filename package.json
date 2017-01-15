@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "build": "webpack",
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "devDependencies": {
     "babel": "^6.5.2",
