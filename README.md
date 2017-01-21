@@ -109,14 +109,15 @@ Here is the best way to show your negative attitude.
 Simply, javascript world needs a hero library
 
 
-1. No more hassle and downtime
-2. DRY (don't repeat yourself)
-3. Easy as it gets
-4. Stop worrying about callback hell and pyramid of doom
-5. Pure, free from side-effects
-6. Painless migration from any other framework
-7. Friendly learning curve
-8. No boilerplate
+1. Reduces **JS fatigue**, **CSS insomnia**, **HTML depression**, and other dev symptoms
+2. No more hassle and downtime
+3. DRY (don't repeat yourself, please)
+4. Easy as it gets
+5. Stop worrying about callback hell and pyramid of doom
+6. Pure, free from side-effects
+7. Painless migration from any other framework
+8. Friendly learning curve
+9. No boilerplate
 
 ## Experience and reasoning
 
