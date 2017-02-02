@@ -40,7 +40,8 @@ simple-to-get-started, lightweight, reliable, convenient, dead simple, user frie
 [![Stories in Ready](https://badge.waffle.io/komlev/sarcasm.svg?label=ready&title=Ready)](http://waffle.io/komlev/sarcasm)
 [![dependencies Status](https://david-dm.org/komlev/sarcasm/status.svg)](https://david-dm.org/komlev/sarcasm)
 [![Libraries.io for GitHub](https://img.shields.io/librariesio/github/komlev/sarcasm.svg)]()
-[![awesome](https://img.shields.io/badge/sarcasm-awesome-FF6EDB.svg)]()
+[![inch-ci](https://inch-ci.org//github/komlev/sarcasm.svg?branch=master&amp;style=flat)](https://inch-ci.org/github/komlev/sarcasm)
+[![awesome](https://img.shields.io/badge/sarcasm-awesome-FF6EDB.svg)](https://www.npmjs.com/package/sarcasm)
 
 [![NPM](https://nodei.co/npm/sarcasm.png?mini=true)](https://npmjs.org/package/sarcasm)
 
