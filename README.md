@@ -119,6 +119,7 @@ Simply, javascript world needs a hero library
 7. Painless migration from any other framework
 8. Friendly learning curve
 9. No boilerplate
+10. Easy to reason about
 
 ## Experience and reasoning
 
